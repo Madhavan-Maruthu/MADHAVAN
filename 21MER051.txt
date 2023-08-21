@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>ABC HOSPITAL</h1>
+<p> we serve quality medical services.</p>
+<p> we provide quality medical srvices and assistance for 24/7 . we have specialised doctors team for ortho , neuro,cardiac and gyneologist.
+<img src="https://static.vecteezy.com/system/resources/previews/004/493/181/original/hospital-building-for-healthcare-background-illustration-with-ambulance-car-doctor-patient-nurses-and-medical-clinic-exterior-free-vector.jpg" alt="WELCOME TO ABC HOSPITAL" >
+
+
+
+
+
+
+
+</body>
+</html>
+
